@@ -1,0 +1,4 @@
+**/launchSettings.json
+bin/
+obj/
+.vs/
